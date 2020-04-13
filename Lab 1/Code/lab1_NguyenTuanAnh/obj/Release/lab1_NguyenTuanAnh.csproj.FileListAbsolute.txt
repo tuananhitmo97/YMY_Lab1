@@ -1,0 +1,15 @@
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Release\lab1_PhamHuyHoang.exe.config
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Release\lab1_PhamHuyHoang.exe
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Release\lab1_PhamHuyHoang.pdb
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Release\EPPlus.dll
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Release\LumenWorks.Framework.IO.dll
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Release\EPPlus.xml
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Release\LumenWorks.Framework.IO.pdb
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\bin\Release\LumenWorks.Framework.IO.xml
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_PhamHuyHoang.mobile.resources
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_NguyenTuanAnh.Properties.Resources.resources
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_NguyenTuanAnh.csproj.GenerateResource.cache
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_NguyenTuanAnh.csproj.CoreCompileInputs.cache
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_NguyenTuanAnh.csproj.CopyComplete
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_PhamHuyHoang.exe
+E:\курс 3\ki2\управление мобильными устройствами\лаб 1\TuanANh\Код\lab1_PhamHuyHoang\lab1_PhamHuyHoang\obj\Release\lab1_PhamHuyHoang.pdb
