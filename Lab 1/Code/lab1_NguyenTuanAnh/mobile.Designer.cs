@@ -1,4 +1,4 @@
-﻿namespace lab1_PhamHuyHoang
+﻿namespace lab1_NguyenTuanAnh
 {
     partial class mobile
     {
