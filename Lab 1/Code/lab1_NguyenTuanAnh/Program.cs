@@ -4,7 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace lab1_PhamHuyHoang
+namespace lab1_NguyenTuanAnh
+
 {
     static class Program
     {

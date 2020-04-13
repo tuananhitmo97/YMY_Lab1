@@ -10,7 +10,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace lab1_PhamHuyHoang
+namespace lab1_NguyenTuanAnh
 {
     public partial class mobile : Form
     {
